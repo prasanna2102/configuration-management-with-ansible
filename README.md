@@ -45,6 +45,8 @@ suppose you are devops engineer u needs to create 10 EC2 instances on aws and ma
 
 4. simple(yaml)
 
+5. we can write our own ansible modules in python.lets say u have an application like nginx load balancer.Definately u have to write the ansible modules like installing load balancer,deleting configurations.anybody else in other organisation in devops role u can share them using ansible galaxy and can use these modules and they can configure the load balancer. 
+
 puppet:
 
 1.  pull mechanism model
@@ -58,6 +60,8 @@ puppet:
 1.  configuration management with windows is not similar to linux.It is slightly difficult with windows even it has advanced modules in ansible.
 
 2.  debugging
+
+3.  performance
 
 
 
